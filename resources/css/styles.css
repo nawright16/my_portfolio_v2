@@ -1,0 +1,32 @@
+body {
+    font-size: 16px;
+    font-family: Helvetica, sans;
+    color: #3F4345;
+    background-color: #C0C0C0;
+
+}
+
+div {
+    /*border: 2px solid red;*/
+  }
+
+li {
+  display: inline-flex;
+  padding-right: 1rem;
+}
+
+img {
+    padding-bottom: 2rem;
+  padding-right: 12px;
+  border-color: #456745;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+  }
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
